@@ -2,7 +2,7 @@
 
 function Home() {
   return (
-    <div className="font-mono text-3xl text-red-200">Home</div>
+    <div className="w-full h-screen flex justify-center items-center text-3xl text-red-400">Reactive Accelerator</div>
   )
 }
 
